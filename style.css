@@ -1,0 +1,13 @@
+.spacing{
+  border-radius: 5px;
+  margin-left: 5px;
+}
+
+body{
+  background: #980d76;
+  font-family: 'Lato', sans-serif;
+}
+
+li{
+  color: white;
+}
